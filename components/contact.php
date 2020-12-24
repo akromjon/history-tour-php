@@ -4,7 +4,11 @@
         <div class="container">
             <div class="col-lg-12">
                 <div class="breadcrumb-box">
-                    <h2>Contact Us</h2>                    
+                    <h2>Contact Us</h2>
+                    <ul class="breadcrumb-inn">
+                        <li><a href="index.html">Home</a></li>
+                        <li class="active"><a href="#">Contact Us</a></li>
+                    </ul>
                 </div>
             </div>
         </div>
